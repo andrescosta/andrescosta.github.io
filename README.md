@@ -24,7 +24,7 @@ In addition to my technical skills, I am passionate about improving software dev
 
 **Personal sabbatical		-	Aug 2022-Present**
 
-	 	Argentina/Canada
+Argentina/Canada
 
 **Senior Software Architect	McAfee** 	**Jan 2020–Aug 2022**
 
